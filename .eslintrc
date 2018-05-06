@@ -1,0 +1,21 @@
+{
+    "parser": "babel-eslint",
+    "extends": "airbnbbase",
+    "parserOption": {
+        "sourceType": "script"
+    },
+    "env": {
+        "node": true,
+        "mocha": true
+    },
+    "rules": {
+        "strict": [2, "global"],
+        "funcnames": 0,
+        "idlength": 0,
+        "newcap": 0,
+        "noconsole": 0,
+        "newlinebeforereturn": "error",
+        "spacebeforeblocks": "error",
+        "import/preferdefaultexport": 0
+    }
+}

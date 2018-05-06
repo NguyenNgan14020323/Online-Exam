@@ -1,0 +1,20 @@
+{
+  "name": "onlineexam",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Nguyen Ngan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/rdash/rdash-angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.10"
+  }
+}
